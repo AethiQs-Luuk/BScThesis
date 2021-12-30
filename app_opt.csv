@@ -1,0 +1,12 @@
+,nb Fields,Crop 1,Crop 2,Crop 3,Crop 4,Cover,Structure,N need
+0,78,"Corn, sweet 2",Cowpea,None,None,-1.0,0.5,0.0
+1,125,"Corn, sweet 2",Peanut,None,None,-1.0,0.5,0.0
+2,232,Cowpea,Anis,None,None,-1.6,1.4,-0.4
+3,147,Cowpea,Rice,None,None,-1.6,1.0,0.0
+4,446,"Wheat, bread 2",Pigeon pea 1,None,None,-1.2,1.6,-0.2
+5,41,"Corn, sweet 1","Cabbage, common 2",Peanut,None,-1.5,0.25,1.0
+6,142,"Corn, sweet 1",Pigeon pea 2,Tomato 1,None,-1.5,0.25,1.0
+7,124,"Corn, sweet 1",Sesame,Cowpea,None,-1.5,0.25,0.5
+8,1,Cowpea,"Corn, sweet 2",Okra,None,-1.6,0.4,0.4
+9,5,Sorghum 1,Okra,Sesame,None,-1.5,0.5,1.5
+10,1,Peanut,"Corn, sweet 1",Tomato 2,Cassava 1,-1.333333333,0.333333333,0.666666667
